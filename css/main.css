@@ -50,10 +50,6 @@ blockquote {
   font-size: 1.125rem;
 }
 
-.quote {
-  color: #999;
-}
-
 @media only screen and (min-width: 38em) {
   html {
     font-size: ;
