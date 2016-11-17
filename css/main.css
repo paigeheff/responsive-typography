@@ -48,6 +48,8 @@ blockquote {
   max-width: 24em;
   color: #555;
   font-size: 1.125rem;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 @media only screen and (min-width: 38em) {
