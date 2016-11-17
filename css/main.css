@@ -118,6 +118,7 @@ article ol {
 }
 
 @media only screen and (min-width: 60em) {
+
   html {
     font-size: 120%;
     line-height: 1.5;
@@ -128,7 +129,7 @@ article ol {
     margin: 0 0 1.5rem;
 
   }
-  
+
   blockquote {
     margin-bottom: 1.5rem;
     margin-top: 0;
@@ -142,6 +143,7 @@ article ol {
 }
 
 @media only screen and (min-width: 90em) {
+
   html {
     font-size: 130%;
   }
